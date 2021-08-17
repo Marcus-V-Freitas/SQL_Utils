@@ -1,0 +1,1 @@
+ALTER LOGIN [sa] WITH NAME = [nova_conta_sa]
